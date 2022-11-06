@@ -1,5 +1,4 @@
 # Hi there 👋, Abdul Shahrukh Khan here. 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=srk224.repoName) [![GitHub followers](https://img.shields.io/github/followers/srk224.svg?style=social&label=Follow)](https://github.com/srk224?tab=followers)<br/>
 
 <!--
@@ -15,6 +14,7 @@ I am an undergraduate Computational Mathematics student at University of Waterlo
 - Outside tech, 📖 I love to play soccer, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="abdshahkhan@gmail.com">abdshahkhan224@gmail.com</a>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2>👀 My github Stats</h2>
 
