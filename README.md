@@ -21,12 +21,12 @@ I am an undergraduate Computational Mathematics student at University of Waterlo
 <div>  
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srk224&theme=tokyonight" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srk224" alt="GitHub Stats" /> <br/><br/>
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=srk224&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srk224&theme=tokyonight)
+![My github status](https://github-readme-stats.vercel.app/api?username=srk224&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srk224&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
 Credits: <a href="https://github.com/srk224">Abdul Shahrukh Khan</a>
