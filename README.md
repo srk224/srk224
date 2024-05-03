@@ -14,7 +14,7 @@ I am an undergraduate Computational Mathematics student at University of Waterlo
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to play soccer, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="abdshahkhan@gmail.com">abdshahkhan224@gmail.com</a>
-- 🌐 <a href="[https://srk224.github.io/portfolio/](https://srk224.github.io/portfolio/)">Personal Portfolio</a>
+- 🌐 <a href="https://srk224.github.io/portfolio/">Personal Portfolio</a>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
