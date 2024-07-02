@@ -9,7 +9,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a third year undergraduate Computational Mathematics student at University of Waterloo. I love to learn and build something new, productive, innovative and creative.
-<a href="https://drive.google.com/file/d/1Gszvum_hZzhX6cKeP0JvOsvLjqtyATYz/view?usp=share_link](https://drive.google.com/file/d/1UMLj3x0QGE8Slyq2jGAQNn4rm1SfLcBS/view?usp=sharing)" target="_blank">Resume</a>
+<a href="https://drive.google.com/file/d/1UMLj3x0QGE8Slyq2jGAQNn4rm1SfLcBS/view?usp=sharing"](https://drive.google.com/file/d/1UMLj3x0QGE8Slyq2jGAQNn4rm1SfLcBS/view?usp=sharing)" target="_blank">Resume</a>
 * **I am interested in Web Development, Android development and DevOps**
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to play soccer, 🎵 listen to music, and 🌴 explore nature outdoors.
